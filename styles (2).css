@@ -1,0 +1,36 @@
+body{
+  padding: 0px;
+  margin: 0px;
+}
+
+#container{
+  display: flex;
+}
+
+main{
+  flex: 80%;
+}
+
+aside{
+  flex: 20%;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+#email{
+  margin-bottom: 5px;
+  border-radius: 8px;
+}
+
+#pass{
+   margin-bottom: 5px;
+  border-radius: 8px;
+}
+
+#button{
+   margin-bottom: 15px;
+  border-radius: 8px;
+  background-color: #eeeeee;
+  cursor: pointer;
+}
+
